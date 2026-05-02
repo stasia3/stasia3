@@ -16,7 +16,7 @@
 
 ```
 
----
+
 ---
 
 <p align="center">
@@ -58,7 +58,7 @@
 </p>
 
 ---
----
+
 
 
 
@@ -66,92 +66,36 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stasia3&theme=react-dark&color=2d7dd2&line=2d7dd2&point=8a8aff&hide_border=true"/>
 </p>
 
+## <|> 𝙳𝚎𝚟𝙿𝚘𝚛𝚝𝚊𝚕
 
-<!--
-## 🧩 DevPortal
-
-```yaml
-idea: real experience > tutorials
-type: social platform for developers
-status: actively evolving
-
-stack:
-  - java
-  - spring (in progress)
-  - postgresql
-
-modules:
-  - auth
-  - profiles
-  - posts
-  - chat
-  - friends system
-
-goal:
-  simple product
-  real interactions
-  scalable later
-```
-
-> this is not a “portfolio project”
-> this is something i'm actually growing
-
----
-
-## 🧠 mindset
+> 𝚊 𝚜𝚘𝚌𝚒𝚊𝚕 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜  
+> 𝚋𝚞𝚒𝚕𝚝 𝚊𝚜 𝚊 𝚛𝚎𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝, 𝚗𝚘𝚝 𝚊 𝚝𝚞𝚝𝚘𝚛𝚒𝚊𝚕
 
 ```txt
-i don't chase technologies
-i build understanding
+core features
+→ authentication
+→ user profiles
+→ posts & feed
+→ chat module
+→ friends system
 
-i don't like fake complexity
-i prefer clean logic
-
-i don't want to just code
-i want to design systems
+backend focus
+→ Java backend logic
+→ Spring Boot architecture
+→ PostgreSQL data model
+→ clean separation of responsibilities
 ```
 
----
+<p align="center">
+  <a href="https://github.com/stasia3/chat-app">
+    𝚟𝚒𝚎𝚠 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 →
+  </a>
+</p>
 
-## ⚙️ stack
+<br/>
 
-```txt
-java
-spring boot (learning → applying)
-postgresql / mariadb / sqlite
-html • css • thymeleaf
-```
-
----
-
-## 🧪 side work
-
-* 📱 finance app (android, java)
-* 🎨 UI experiments (glass style, layouts)
-* 🧩 small system ideas
-
----
-
-## 📍 direction
-
-```diff
-→ backend engineering
-→ system design
-→ scalable applications
-```
-
-target → **ireland 🇮🇪**
-
----
 
 ## ⚠️
 
 this github is not about quantity
 it's about **projects that evolve**
-
----
-
-<p align="center">
-  <i>early — but intentional</i>
-</p>
--->
